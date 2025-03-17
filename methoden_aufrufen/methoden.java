@@ -1,6 +1,3 @@
-import KuchenRezepte.blueberrypie;
-import KuchenRezepte.cheesecake;
-
 public class BakeCake {
     public static void main(String[] args) {
         cheesecake.BakeCheeseCake();
