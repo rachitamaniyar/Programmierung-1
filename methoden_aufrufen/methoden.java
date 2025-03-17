@@ -1,5 +1,5 @@
-import tag1.KuchenRezepte.blueberrypie;
-import tag1.KuchenRezepte.cheesecake;
+import KuchenRezepte.blueberrypie;
+import KuchenRezepte.cheesecake;
 
 public class BakeCake {
     public static void main(String[] args) {
